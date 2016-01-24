@@ -29,7 +29,13 @@
 3. 网线: RMB 23.9 * 5 = 119.5
 4. 路由器: RMB 399
 
-### 已安装的包
+### 服务器的包
+1. SSH
+2. FTP
+3. Python, Django
+
+### 子机安装的包
 1. SSH
 2. Samba
-2. Python (numpy, scipy, matplotlib)
+3. FTP
+4. Python (numpy, scipy, matplotlib)
